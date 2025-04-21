@@ -26,3 +26,10 @@ Key stages of the process:
 2. Employee registration  
 3. Confirmation and reminders  
 4. Post-training evaluation and reporting
+
+---
+## 📥 Download the App File
+
+> Due to GitHub file size limits, the `.oml` file is hosted externally:
+
+🔗 [Download EmployeeManagement.oml (OneDrive)](https://grupolusofona-my.sharepoint.com/:u:/g/personal/a22304529_alunos_ulht_pt/ER9ReeSENnVBrS73wPrp1S8BRBaT6_yGSXlE-gKzNFUc5g?e=kaUvBb)
